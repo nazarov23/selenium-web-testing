@@ -1,0 +1,27 @@
+# Ignore Gradle project-specific cache directory
+.gradle
+
+# Ignore Gradle build output directory
+build
+
+# Ignore IDE files
+.idea/
+*.iml
+*.iws
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+tmp/
+temp/
+
+# Ignore Selenium drivers (they will be managed by WebDriverManager)
+webdriver/
+
+# Ignore application properties
+application.properties
