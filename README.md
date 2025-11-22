@@ -1,6 +1,6 @@
 # Тестирование веб-интерфейса формы заказа карты
 
-![Java CI with Gradle](https://github.com/your-username/selenium-web-testing/actions/workflows/gradle.yml/badge.svg)
+[![Java Tests](https://github.com/nazarov23/selenium-web-testing/actions/workflows/gradle.yml/badge.svg)](https://github.com/nazarov23/selenium-web-testing/actions/workflows/gradle.yml)
 
 ## Описание проекта
 
